@@ -1,9 +1,9 @@
 # CMPE272 - Team GirlPower - MarketPlace
 
 ## Team Members:
-## 1. Garima Chaphekar    : 014638871
-## 2. Sahithi Khandavalli : 015281240
-## 3. Vandana Chandola    : 014748604
+### 1. Garima Chaphekar    : 014638871
+### 2. Sahithi Khandavalli : 015281240
+### 3. Vandana Chandola    : 014748604
 
 ## Website Links
 1. Marketplace          - https://garimachaphekar.com/
